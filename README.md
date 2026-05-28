@@ -36,20 +36,11 @@ Cenários automatizados utilizando Cucumber e Gherkin.
 * API Testing
 * Postman
 * JUnit
-* Cucumber
 * Git & GitHub
-
----
-
-## 📊 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TitiRosa\&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TitiRosa\&layout=compact)
 
 ---
 
 ## 📫 Contato
 
-* LinkedIn: [www.linkedin.com/in/letícia-martins-rosa](http://www.linkedin.com/in/letícia-martins-rosa)
+* LinkedIn: [www.linkedin.com/in/leticiamrosa](https://www.linkedin.com/in/leticiamrosa/)
 * Email: [leticiamartins187@hotmail.com](mailto:leticiamartins187@hotmail.com)
