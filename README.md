@@ -1,10 +1,55 @@
-- 👋 Hi, I’m @LeticiaRosa
-- 👀 I’m interested in tecnology 👨‍💻
-- 🌱 I’m currently learning Java, QA and Python
-- 📫 How to reach me leticiamartins187@hotmail.com
-- 📱(51)993233316
+# Olá 👋 Eu sou Leticia Rosa
 
-<!---
-LeticiaRosa/LeticiaRosa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## QA Engineer | Automação de Testes | Testes de API
+
+Sou QA Engineer com foco em qualidade de software, automação de testes e melhoria contínua de aplicações.
+
+Atualmente trabalho e estudo tecnologias voltadas para testes automatizados e qualidade de software.
+
+---
+
+## 🚀 Projetos em Destaque
+
+### 🔹 Automação de Testes UI com Selenium
+
+Framework de automação utilizando Java, Selenium WebDriver e Page Objects.
+
+### 🔹 Testes E2E com Cypress
+
+Testes automatizados end-to-end utilizando Cypress para aplicações web modernas.
+
+### 🔹 Testes de API
+
+Automação de APIs REST utilizando Java, validações automatizadas e testes funcionais.
+
+### 🔹 Automação BDD
+
+Cenários automatizados utilizando Cucumber e Gherkin.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+* Java
+* Selenium WebDriver
+* Cypress
+* API Testing
+* Postman
+* JUnit
+* Cucumber
+* Git & GitHub
+
+---
+
+## 📊 Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TitiRosa\&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TitiRosa\&layout=compact)
+
+---
+
+## 📫 Contato
+
+* LinkedIn: [www.linkedin.com/in/letícia-martins-rosa](http://www.linkedin.com/in/letícia-martins-rosa)
+* Email: [leticiamartins187@hotmail.com](mailto:leticiamartins187@hotmail.com)
