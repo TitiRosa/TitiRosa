@@ -1,6 +1,6 @@
 # Olá 👋 Eu sou Leticia Rosa
 
-## QA Engineer | Automação de Testes | Testes de API
+## Analista de Qualidade | Automação de Testes | Testes de API
 
 Sou QA Engineer com foco em qualidade de software, automação de testes e melhoria contínua de aplicações.
 
